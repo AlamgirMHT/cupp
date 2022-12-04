@@ -1,5 +1,7 @@
 # CUPP - Common User Passwords Profiler
 
+## Kali Linux
+
 ## About
 
   The most common form of authentication is the combination of a username
