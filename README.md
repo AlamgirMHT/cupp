@@ -1,6 +1,6 @@
 # CUPP - Common User Passwords Profiler
 
-## Kali Linux
+<h5 align="center">Kali Linux</h5>
 
 ## About
 
