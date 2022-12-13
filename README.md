@@ -1,4 +1,4 @@
-# CUPP - Common User Passwords Profiler
+<h1 align="center">CUPP - Common User Passwords Profiler</h1>
 
 <h5 align="center">Kali Linux</h5>
 
